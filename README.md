@@ -1,5 +1,6 @@
 **[Fake Store](https://theonlydola.github.io/fake-store/)**
-** A simple e-commerce web application built using React, showcasing a fictional online store. **
+
+**A simple e-commerce web application built using React, showcasing a fictional online store.**
 
 **Key Features:**
 - **Extensive Product Catalog:** Browse a selection of products by the [Fake Store Database API](https://fakestoreapi.com/).
