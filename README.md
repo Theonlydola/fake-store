@@ -3,6 +3,7 @@
 
 **Key Features:**
 - **Extensive Product Catalog:** Browse a selection of products by the [Fake Store Database API](https://fakestoreapi.com/).
+- **Image Preview:** Clicking on the product image will open a larger view for closer inspection.
 - **Light & Dark Themes:** Switch between light and dark modes for comfortable browsing and have it saved in localStorage.
 - **Loading & Error States:** Using Loading state & Error Boundary for better experience.
 - **See More:** Load products five by five for better performance & easier browsing.
