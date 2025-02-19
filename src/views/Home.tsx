@@ -2,7 +2,7 @@ import { CSSProperties, useEffect, useState } from "react";
 import { ErrorBoundary } from "../components";
 import { useFetchProducts } from "../queries/fetchProducts/fetchProducts";
 import { Button, Flex, Spin } from "antd";
-import { ProductCard } from "../components/card";
+import { ProductCard } from "../components/productCard";
 import { IProduct } from "../queries/fetchProducts/fetchProducts.types";
 
 const Locale = {
